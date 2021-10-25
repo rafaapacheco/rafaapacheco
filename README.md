@@ -1,7 +1,6 @@
 ### Hi there, I'm Rafael Pacheco 👋
 
-<!--
-**rafaapacheco/rafaapacheco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*rafaapacheco/rafaapacheco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,5 +14,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![Rafael's github stats](https://github-readme-stats.vercel.app/api?username=rafaapacheco&show_icons=true&theme=radical)
-
--->
